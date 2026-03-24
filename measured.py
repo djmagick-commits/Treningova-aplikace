@@ -13,4 +13,20 @@ class Measured:
         self.thigh = thigh
         self.calf = calf
         self.forearms = forearms
+    def measure(self,breasts,shouldesrs,beck,biceps,triceps,thigh,calf,forearms):
+        if self.breasts == "prsa":
+            print(f"miry")
+        elif self.shoulders == "ramena":
+            print(f"miry")
+        elif self.beck == "zada":
+            print(f"miry")
+        elif self.belly == "břicho":
+            print(f"miry")
+        elif self.hips == "boky":
+            print(f"miry")
+        else:
+            print(f"miry")
 
+
+
+print("konec")
